@@ -1,10 +1,13 @@
 import React from "react";
-import Quotes from "./Componants/Quotes";
+import Counter from "./Componants/Counter";
+ 
+
 
 const App = () => {
   return (
     <div className="app">
-      <Quotes/>
+    <Counter/>
+     
     </div>
   );
 };

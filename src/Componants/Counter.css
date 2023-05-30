@@ -1,0 +1,36 @@
+ 
+
+.Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 80px;
+    width: 30%;
+    height: 15vmax;
+    background-color: bisque; 
+    border: 2px solid rgb(12, 1, 1);
+}
+  
+   
+.up{
+    margin-top: -120px;
+    margin-left: -20px;  
+}
+  
+   
+.down{
+margin-top: 120px;
+margin-left: -35px;
+}
+
+
+.left{
+    margin-top: 10px;
+    margin-left: -95px;
+}
+   
+
+.right{
+margin-top: 10px;
+margin-left: 95px;
+}
