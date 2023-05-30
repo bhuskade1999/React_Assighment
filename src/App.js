@@ -1,11 +1,10 @@
 import React from "react";
-//import Quiz from "./Quiz";
-import Quiz from "./Quiz"
+import Quotes from "./Componants/Quotes";
 
 const App = () => {
   return (
     <div className="app">
-      <Quiz />
+      <Quotes/>
     </div>
   );
 };
